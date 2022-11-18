@@ -1,7 +1,7 @@
 # 🎲 Scaffold-D&D
 ![image (6)](https://user-images.githubusercontent.com/62179036/202815929-0556be95-67c1-4eb2-ac71-aaef506690e6.png)
 
-> Using Scaffold-ETH to accelerate my contract testing, unfortunately had to just use remix because this wasn't displaying my contracts. If you have a similar problem, just navigate to `packages/hardhat/contracts/VRFD22.sol` that's where the action is. 🚀
+> Using Scaffold-ETH to accelerate my contract testing, unfortunately had to just use remix because this wasn't displaying my contracts. If you have a similar problem, just navigate to `packages/hardhat/contracts/VRFD22.sol` that's where the action is. [Smart Contract Demo Video](https://youtu.be/A9PGWtiS4sk)🚀
 
 ![image](https://user-images.githubusercontent.com/62179036/202815715-51e8dbce-9d7d-4bd9-92ad-a671a4e59632.png)
 
@@ -10,6 +10,10 @@
 ![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
 
 # 🏄‍♂️ Quick Start
+
+![image](https://user-images.githubusercontent.com/62179036/202819472-efc9c348-76ea-4928-b337-6aa6e468c1ed.png)
+
+🧊 Chainlink VRF2 Subscription is providing for consumer contract [0xa41a00db6c90b969252b38580e36b5241c16de85](https://goerli.etherscan.io/address/0xa41a00db6c90b969252b38580e36b5241c16de85) to this contract on Goerli testnet.
 
 Prerequisites: [Node (v16 LTS)](https://nodejs.org/en/download/) plus [Yarn (v1.x)](https://classic.yarnpkg.com/en/docs/install/) and [Git](https://git-scm.com/downloads)
 
