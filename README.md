@@ -7,8 +7,6 @@
 
 🧊 Cool way to use Chainlink for an NFT. When storing the D&D Avatar CID onto the blockchain with the user's wallet address (this is callend NFT), it rolls some dice for the player. They get a public mission that the DM can confirm and award "Action drawings" NFTs (coming soon).
 
-![image](https://user-images.githubusercontent.com/2653167/124158108-c14ca380-da56-11eb-967e-69cde37ca8eb.png)
-
 # 🏄‍♂️ Quick Start
 
 ![image](https://user-images.githubusercontent.com/62179036/202819472-efc9c348-76ea-4928-b337-6aa6e468c1ed.png)
