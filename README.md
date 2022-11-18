@@ -1,4 +1,6 @@
 # 🎲 Scaffold-D&D
+**Judges verify: [Chainlink VRF Smart Contract](https://github.com/DnDnDiffusion/scaffold-dnd/blob/master/packages/hardhat/contracts/YourContract.sol), deployment on [Goerli here](https://goerli.etherscan.io/address/0xa41a00db6c90b969252b38580e36b5241c16de85)
+
 ![image (6)](https://user-images.githubusercontent.com/62179036/202815929-0556be95-67c1-4eb2-ac71-aaef506690e6.png)
 
 > Using Scaffold-ETH to accelerate my contract testing, unfortunately had to just use remix because this wasn't displaying my contracts. If you have a similar problem, just navigate to `packages/hardhat/contracts/VRFD22.sol` that's where the action is. [Smart Contract Demo Video](https://youtu.be/A9PGWtiS4sk)🚀
